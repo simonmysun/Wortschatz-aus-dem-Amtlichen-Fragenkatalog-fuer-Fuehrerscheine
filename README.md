@@ -3,8 +3,10 @@
 Hier stelle ich ein paar Wortschatzlisten aus dem amtlichen Fragenkatalog für Führerscheine zur Verfügung. Dabei habe ich gleichbedeutende Wörter mit demselben Wortstamm zusammengeführt und nach ihrer Häufigkeit sortiert.
 
 Gemäß:
+
 - https://fragdenstaat.de/anfrage/urheberrecht-und-recht-zur-verarbeitung-des-amtlichen-fragenkatalog-fur-fuhrerscheine/
 - https://fragdenstaat.de/anfrage/amtlicher-fragenkatalog-fur-die-theoretische-fahrerlaubnisprufung-1/
+
 sind die Fragen im öffentlichen Bereich. Daher kann ich die Listen hier bereitstellen. Später werde ich auch den Originaltext bereitstellen.
 
 ## Format
