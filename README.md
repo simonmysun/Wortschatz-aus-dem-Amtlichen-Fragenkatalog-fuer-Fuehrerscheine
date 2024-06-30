@@ -7,7 +7,7 @@ Gemäß:
 - https://fragdenstaat.de/anfrage/urheberrecht-und-recht-zur-verarbeitung-des-amtlichen-fragenkatalog-fur-fuhrerscheine/
 - https://fragdenstaat.de/anfrage/amtlicher-fragenkatalog-fur-die-theoretische-fahrerlaubnisprufung-1/
 
-sind die Fragen im öffentlichen Bereich. Daher kann ich die Listen hier bereitstellen. Später werde ich auch den Originaltext bereitstellen.
+sind die Fragen gemeinfrei. Daher kann ich die Listen hier bereitstellen. Später werde ich auch den Originaltext bereitstellen.
 
 ## Format
 
